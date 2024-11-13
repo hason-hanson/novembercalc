@@ -1,0 +1,35 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(35, 35, 35);
+    border: 20px solid rgb(110, 110, 110);
+    width: 597px;
+    margin:auto;
+    padding: 25px 18px;
+    border-radius: 50px;
+}
+
+
+p {
+    font-size: 15px;
+    margin: 20px;
+    color:rgb(158, 158, 158);
+}
+
+h1 {
+    font-size: 30px;
+    margin: 20px;
+    color:rgb(158, 158, 158);
+}
+
+
+button {
+    margin: 20px;
+    background-color:rgb(158, 158, 158);
+    color:rgb(38, 38, 38);
+}
+
+input{
+    background-color:rgb(158, 158, 158);
+    color:rgb(38, 38, 38);
+}
+
